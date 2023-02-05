@@ -1,0 +1,35 @@
+{
+  "short_name": "Meroë",
+  "name": "Pyramids of Meroë",
+  "icons": [
+    {
+      "src": "./favicons/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "./favicons/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "./favicons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./favicons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "background_color": "#202124",
+  "theme_color": "#fff6eb",
+  "description": "Explore the ancient capital of the Kushite Kingdom in Sudan's Nile Valley, home to the remains of over 200 uniquely Nubian pyramids.",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "/meroe/"
+}
